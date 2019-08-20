@@ -21,6 +21,7 @@ libc = { version = "0.2", default-features = false }
 syscalls = { path = "syscalls" }
 common = { path = "common" }
 tools_helper = { path = "tools_helper" }
+preloader = { path = "preloader" }
 nix = "0.13"
 goblin = "0.0"
 procfs = "0.5"
