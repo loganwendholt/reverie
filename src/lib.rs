@@ -13,6 +13,7 @@ extern crate lazy_static;
 pub use syscalls;
 pub use tools_helper;
 pub use common;
+pub use preloader;
 
 pub mod hooks;
 pub mod nr;
